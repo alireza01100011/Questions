@@ -10,5 +10,5 @@
 - Deeper understanding of programming
 - Improving problem solving skills
 - Improving algorithm knowledge
-- Mastery of Vim
+- Mastery of [Vim](https://github.com/vim/vim)
 - And challenge yourself
